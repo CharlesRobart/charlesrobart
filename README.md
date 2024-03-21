@@ -4,7 +4,7 @@ My name is Charles and I currently live in Montreal, Canada ![Canada flag](/imag
 
 For 10 years I have worked as a project manager in data migration and data analysis (Power Bi). While working with developers, i realized i preferred programming and solving problems. That's why, I started a formation with the school O'Clock to be web developer Full Stack (HTML, CSS, Javascript, SQL,...).
 
-## The technologies I work with
+⌨️## The technologies I work with
 
 ![CSS][CSS]
 [![Javascript][Javascript]][React-url]
